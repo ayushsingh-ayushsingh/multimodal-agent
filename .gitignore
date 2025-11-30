@@ -10,6 +10,7 @@ KMS
 *.egg-info
 .pytest_cache
 .ruff_cache
+.next
 
 # Playwright
 node_modules/
