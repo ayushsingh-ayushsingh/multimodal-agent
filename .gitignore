@@ -1,0 +1,20 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__
+.idea
+KMS
+.venv
+.vscode
+*.egg-info
+.pytest_cache
+.ruff_cache
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
